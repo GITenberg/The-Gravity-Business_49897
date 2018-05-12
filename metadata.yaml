@@ -1,10 +1,14 @@
 _repo: The-Gravity-Business_49897
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ashman, William
     alias: Ashman
     gutenberg_agent_id: '33729'
     url: http://www.gutenberg.org/2009/agents/33729
+covers:
+- cover_type: archival
+  image_path: 49897-h/images/cover.jpg
 creator:
   author:
     agent_name: Gunn, James E.
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25015
     wikipedia: http://en.wikipedia.org/wiki/James_Gunn_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49897#The-Gravity-Business
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-09-06'
 gutenberg_type: Text
